@@ -1,0 +1,19 @@
+Gesundheitskosten nach Leistung, Geschlecht und Altersklasse
+https://www.pxweb.bfs.admin.ch/sq/7d87e7d5-bc25-489a-898a-ddd98b8cbb6d
+Nutzungsbedingungen 	OPEN-BY-ASK 
+
+Kosten und Finanzierung des Gesundheitswesens nach Leistungserbringer, Leistung, Finanzierungsregime und Jahr
+https://www.pxweb.bfs.admin.ch/sq/6b13d557-9ade-4ade-83f4-f943430d5cb1
+Nutzungsbedingungen 	OPEN-BY-ASK 
+
+Demografische Bilanz nach Alter und Kanton
+https://www.pxweb.bfs.admin.ch/sq/b1f9ac16-47f4-4e1e-84a5-33b63a632a8d
+Nutzungsbedingungen 	OPEN-BY-ASK 
+
+Szenarien zur Bevölkerungsentwicklung der Schweiz 2020-2050 - Bevölkerung und Bewegungen nach Szenario-Variante, Staatsangehörigkeit (Kategorie), Geschlecht, Alter, Jahr und Beobachtungseinheit
+https://www.pxweb.bfs.admin.ch/sq/380ccae0-6b03-464d-90d4-8158b789838a
+Nutzungsbedingungen 	OPEN-BY-ASK 
+
+ LIK, Totalindex auf allen Indexbasen 1982-2020
+https://dam-api.bfs.admin.ch/hub/api/dam/assets/23664208/master
+Nutzungsbedingungen 	OPEN-BY-ASK 
